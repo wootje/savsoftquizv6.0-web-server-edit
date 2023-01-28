@@ -7,7 +7,7 @@ Changes:
   File: '/application/dist/js/custom.js' <br>
 » var api_base_url="/api/public/";<br>
 » var api_site_url="/api/public/index.php"; <br>
-  (if you install in a sub folder, put the name of the folder before /api)
+  (if you install in a sub folder, put the name of the folder before /api & add it to the 'index.html' file in the root directory)
 <br>
 <br>
 
