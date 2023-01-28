@@ -38,15 +38,15 @@ Password:  123456<br><br>
 
 ## Installation Instructions
 
-1) Upload zip file and extract.<br>
-2) Open .env file (located at savsoftquizv6.0/api/ ) <br>
-3) Update app base url and database credentials (update both database details, readDB and writeDB.) If you are using single database then use same credentials in both.<br>
-4) Import database.sql file to both database (.sql file located in root folder of savsoftquizv6.0 )<br>
-5) Upload all files to the root directory of your web server.
+1) Upload all files to the root directory of your web server.<br>
+2) Open '/api/.env' <br>
+3) Update the Base URL <br>
+4) Update database credentials (update both database details, readDB and writeDB.) If you are using single database then use same credentials in both.<br>
+5) Import database.sql file to both database (.sql file located in root folder of savsoftquizv6.0 )<br>
 6) Open your web browser and go to the domain you host this software on.
-7) Log in using the creadentials provided below.
-» username: admin
-» password:  admin
+7) Log in using the creadentials provided below: <br>
+» username: admin<br>
+» password:  admin<br>
 
 If you have any issue to login then read instructions at https://github.com/Techkshetra/savsoftquizv6.0/wiki/First-time-login-troubleshoot 
 
