@@ -4,9 +4,10 @@ Changes:
 1. Removed Docker files
 2. Added 'index.html' to the root directory that redirects you to the login page
 3. Removed the need to manually enter your domain name in a file by setting relative paths:<br>
-» /application/dist/js/custom.js (if you install in a sub folder, put the name of the folder before /api) <br>
+  File: '/application/dist/js/custom.js' <br>
 » var api_base_url="/api/public/";<br>
-» var api_site_url="/api/public/index.php";
+» var api_site_url="/api/public/index.php"; <br>
+  (if you install in a sub folder, put the name of the folder before /api)
 <br>
 <br>
 
