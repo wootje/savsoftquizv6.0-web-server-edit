@@ -1,3 +1,12 @@
+## Removed the need for docker. Upload to the root of your web server, import SQL & you're good to go
+
+Changes:
+1. Removed Docker files
+2. Added 'index.html' to the root directory that redirects you to the login page
+3. Removed the need to manually enter your domain name in a file by setting relative paths:<br>
+» var api_base_url="/api/public/";<br>
+» var api_site_url="/api/public/index.php";
+
 Savsoft Quiz v6.0 is an Opern Source and Free php based web application (script) to create and manage online quiz, test, exam on your website or server.
 
 
@@ -31,10 +40,9 @@ Password:  123456<br><br>
 2) Open .env file (located at savsoftquizv6.0/api/ ) <br>
 3) Update app base url and database credentials (update both database details, readDB and writeDB.) If you are using single database then use same credentials in both.<br>
 4) Import database.sql file to both database (.sql file located in root folder of savsoftquizv6.0 )<br>
-5) Open custom.js file (located at savsoftquizv6.0/application/dist/js/ )<br>
-6) Update both api_base_url and api_site_url variables with public url of 'api/public' folder.<br>
-eg. if domain name is savsoftquiz.org and path of api folder is savsoftquiz.org/savsoftquizv6.0/api/ then base url is 'https://savsoftquiz.org/savsoftquizv6.0/api/public/' and site url is 'https://savsoftquiz.org/savsoftquizv6.0/api/public/index.php'<br>
-7) Now visit https://YOUR-DOMAINNAME/application/dist/index.html<br><br>
+5) Upload all files to the root directory of your web server.
+6) Open your web browser and go to the domain you host this software on.
+7) Log in using the creadentials provided below.
 
 Default admin logins:
 
