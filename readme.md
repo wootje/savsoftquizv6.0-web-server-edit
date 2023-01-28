@@ -1,4 +1,4 @@
-## Removed the need for docker. Upload to the root of your web server, import SQL & you're good to go
+## Removed the need for docker. It's ready to upload to your web server.
 
 Changes:
 1. Removed Docker files
@@ -6,9 +6,8 @@ Changes:
 3. Removed the need to manually enter your domain name in a file by setting relative paths:<br>
 » var api_base_url="/api/public/";<br>
 » var api_site_url="/api/public/index.php";
-
-Savsoft Quiz v6.0 is an Opern Source and Free php based web application (script) to create and manage online quiz, test, exam on your website or server.
-
+<br>
+<br>
 
 ## Minimum Server Requirement
 - PHP version 7.3 or newer is required
@@ -17,7 +16,8 @@ Savsoft Quiz v6.0 is an Opern Source and Free php based web application (script)
 - mysqli extension
 - MySQL  version 5.1+
 
-
+<br>
+<br>
 
 ## Useful links
 
@@ -43,46 +43,13 @@ Password:  123456<br><br>
 5) Upload all files to the root directory of your web server.
 6) Open your web browser and go to the domain you host this software on.
 7) Log in using the creadentials provided below.
-
-Default admin logins:
-
-username: admin
-
-password:  admin
+» username: admin
+» password:  admin
 
 If you have any issue to login then read instructions at https://github.com/Techkshetra/savsoftquizv6.0/wiki/First-time-login-troubleshoot 
 
-## Docker installation
-
-The docker-compose file has two containers, mariadb and quiz (the app itself). 
-
-First, clone this repo.
-
-```$ git clone https://github.com/Techkshetra/savsoftquizv6.0.git
-   $ cd savsoftquizv6.0/
-```
-Then edit docker-compose.yml with the following variables as you wish
-
-```
-     - DB_HOST=mariadb   # name of the mariadb container 
-     - DB_USERNAME=exam
-     - DB_NAME=exam
-     - DB_PASSWORD=exam
-     - DOMAINNAME=YOUR-DOMAINNAME
-```
-
-At last,  start the containers:
-
-```
-$ docker-compose up -d
-```
-
-populate database with file `database.sql`
-
-```bash
-$ mysql -u root -p --protocol tcp exam < database.sql
-```
-
+<br>
+<br>
 # Wiki - Documentation
 https://github.com/Techkshetra/savsoftquizv6.0/wiki<br><br>
 
