@@ -21,6 +21,16 @@ Changes:
 <br>
 <br>
 
+<br>
+<br>
+<b>Buy me a cup of coffee!</b> 🙂👍 <br>
+https://urlshrt.eu/donations
+<br>
+<br>
+<img src="https://urlshrt.eu/donateqr"></img>
+<br>
+<br>
+
 ## Useful links
 
 Open Source Version Demo: https://savsoftquiz.org/demo/application/dist/index.html <br>
