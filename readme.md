@@ -24,25 +24,16 @@ https://urlshrt.eu/buycupofcoffee
 - intl extension
 - mysqli extension
 - MySQL  version 5.1+
-
 <br>
 <br>
-
 ## Useful links
-
-Open Source Version Demo: https://savsoftquiz.org/demo/application/dist/index.html <br>
-Admin Login:<br>
-Username: admin<br>
-Password: admin<br><br>
-
-
-User/student Login:<br>
-Username:  user007<br>
-Password:  123456<br><br>
-
- 
-
-
+<br>
+<br>
+Open Source Version Demo:<br>
+https://urlshrt.eu/savsoftquizdemov6
+<br>
+<br>
+<br>
 ## Installation Instructions
 
 1) Upload all files to the root directory of your web server.<br>
