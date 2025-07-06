@@ -52,6 +52,14 @@ If you have any issue to login then read instructions at https://github.com/Tech
 
 <br>
 <br>
+<br>
+<b>Buy me a cup of coffee!</b> 🙂👍 <br>
+https://urlshrt.eu/buycupofcoffee
+<br>
+<br>
+<img src="https://urlshrt.eu/donateqr"></img>
+<br>
+<br>
 # Wiki - Documentation
 https://github.com/Techkshetra/savsoftquizv6.0/wiki<br><br>
 
