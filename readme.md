@@ -10,6 +10,13 @@ Changes:
   <i>(if you install in a sub folder, put the name of the folder before /api & add it to the 'index.html' file in the root directory)</i>
 <br>
 <br>
+<b>Buy me a cup of coffee!</b> 🙂👍 <br>
+https://urlshrt.eu/buycupofcoffee
+<br>
+<br>
+<img src="https://urlshrt.eu/donateqr"></img>
+<br>
+<br>
 
 ## Minimum Server Requirement
 - PHP version 7.3 or newer is required
