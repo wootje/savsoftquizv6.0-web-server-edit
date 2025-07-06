@@ -20,6 +20,13 @@ Changes:
 
 <br>
 <br>
+<b>Buy me a cup of coffee!</b> 🙂👍 <br>
+https://urlshrt.eu/buycupofcoffee
+<br>
+<br>
+<img src="https://urlshrt.eu/donateqr"></img>
+<br>
+<br>
 
 ## Useful links
 
