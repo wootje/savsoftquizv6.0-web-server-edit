@@ -30,18 +30,11 @@ https://urlshrt.eu/buycupofcoffee
 
 ## Useful links
 
-Open Source Version Demo: https://savsoftquiz.org/demo/application/dist/index.html <br>
-Admin Login:<br>
-Username: admin<br>
-Password: admin<br><br>
+Open Source Version Demo: <br>
+https://urlshrt.eu/savsoftquizdemov6 <br>
 
-
-User/student Login:<br>
-Username:  user007<br>
-Password:  123456<br><br>
-
- 
-
+ <br>
+<br>
 
 ## Installation Instructions
 
